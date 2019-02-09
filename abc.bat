@@ -1,7 +1,6 @@
-echo off
-chcp 1251
+@echo off
 title Калькулятор
-color 71
+color 0f
 :start
 echo Введите выражение:
 set /p exp=
